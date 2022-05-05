@@ -1,0 +1,9 @@
+let livecam = {
+"type": "FeatureCollection",
+"name": "livecam",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "NO": 1, "名称": "等々力緑地のモニュメント１", "URL": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9", "LINK": "./assets/viewer/todoroki1.html", "COLOR": "red" }, "geometry": { "type": "Point", "coordinates": [ 139.646814, 35.587899] } },
+{ "type": "Feature", "properties": { "NO": 2, "名称": "等々力緑地のモニュメント２", "URL": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9", "LINK": "./assets/viewer/todoroki2.html", "COLOR": "red" }, "geometry": { "type": "Point", "coordinates": [ 139.646745, 35.587742 ] } },
+]
+}

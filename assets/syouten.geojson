@@ -1,0 +1,9 @@
+let syouten = {
+    "type": "FeatureCollection",
+    "name": "syouten",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+    "features": [
+    { "type": "Feature", "properties": { "NO": 1, "名称": "新丸子～武蔵小杉の商店街", "URL": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9", "LINK": "./assets/viewer/shinmaruMusako.html", "COLOR": "red" }, "geometry": { "type": "Point", "coordinates": [ 139.660956,35.578684 ] } },
+    ]
+    }
+    

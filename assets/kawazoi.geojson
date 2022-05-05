@@ -1,0 +1,8 @@
+let kawazoi = {
+"type": "FeatureCollection",
+"name": "livecam",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "NO": 1, "名称": "多摩川沿いの東屋", "URL": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9", "LINK": "./assets/viewer/tamagawa.html", "COLOR": "red" }, "geometry": { "type": "Point", "coordinates": [ 139.651649,35.590317 ] } },
+]
+}
